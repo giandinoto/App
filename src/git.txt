@@ -1,8 +1,8 @@
 1 - Crear el repositorio online GITHUB
 2 - git init (iniciamos)
 3 - git remote add origin https://github.com/giandinoto/App.git (Sincronizamos)
-4 - git commit -m "first commit" (Comiteamos)
-5 - git add . (agregamos los archivos a la carpeta a subir al repo) 
+4 - git add . (agregamos los archivos a la carpeta a subir al repo) 
+5 - git commit -m "first commit" (Comiteamos)
 6 - git push -u origin master (No main)
 
 Otros comandos:
